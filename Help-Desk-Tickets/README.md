@@ -11,4 +11,4 @@ This folder contains documented help desk tickets completed through IT support s
 
 ## Completed Tickets
 
-Coming soon.
+- Ticket-001: Company-Wide Email Outage

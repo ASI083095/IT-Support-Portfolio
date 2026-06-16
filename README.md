@@ -18,15 +18,9 @@ This portfolio documents my hands-on IT support practice, including help desk si
 
 ### Completed Tickets
 
-- Ticket-001: Company-Wide Email Outage
-  - Investigated organization-wide email disruption.
-  - Identified degraded Exchange server (EXCH01).
-  - Restored email functionality by rebooting the affected server.
-
-- Ticket-002: Remote User Unable to Access Shared Drive
-  - Diagnosed remote access issue affecting a Marketing employee.
-  - Identified disconnected VPN connection.
-  - Restored VPN connectivity and performed additional validation of file server health, mapped drives, and Active Directory group memberships.
+- Ticket #001 - Company-Wide Email Outage
+- Ticket #002 - Shared Drive Access Failure
+- Ticket #003 - Password Expired / Unable to Log In
 
 ### Ticket Documentation
 

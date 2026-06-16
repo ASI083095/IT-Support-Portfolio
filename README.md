@@ -18,9 +18,17 @@ This portfolio documents my hands-on IT support practice, including help desk si
 
 ### Completed Tickets
 
-- Ticket #001 - Company-Wide Email Outage
-- Ticket #002 - Shared Drive Access Failure
-- Ticket #003 - Password Expired / Unable to Log In
+### Ticket-001: Company-Wide Email Outage
+Skills: Server Troubleshooting, Incident Response
+
+### Ticket-002: Remote User Unable to Access Shared Drive
+Skills: VPN Troubleshooting, Active Directory, Network Drives
+
+### Ticket-003: Password Expired / Unable to Log In
+Skills: Active Directory, Password Management, Identity Verification
+
+### Ticket-004: Third Floor Network Outage
+Skills: Network Troubleshooting, Switch Administration, Incident Management
 
 ### Ticket Documentation
 

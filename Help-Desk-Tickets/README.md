@@ -23,3 +23,13 @@ This folder contains documented help desk tickets completed through IT support s
 - Restored VPN connectivity and validated network access.
 - Performed additional investigation of file server status, mapped drives, and Active Directory group memberships.
 - Skills: VPN troubleshooting, remote support, Active Directory, command-line diagnostics, network drive troubleshooting.
+
+### Ticket-003: User Unable to Log In Due to Expired Password
+- Investigated login failure for a user returning from extended leave.
+- Reviewed Password & Security documentation and account lockout procedures.
+- Verified user identity using company verification process.
+- Checked Active Directory account authentication settings.
+- Identified expired password as the root cause.
+- Sent verification code and reset user password.
+- Provided temporary credentials and confirmed successful login.
+- Skills: Active Directory administration, password management, identity verification, security policy compliance, account troubleshooting.

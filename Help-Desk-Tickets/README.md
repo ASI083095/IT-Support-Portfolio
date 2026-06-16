@@ -33,3 +33,11 @@ This folder contains documented help desk tickets completed through IT support s
 - Sent verification code and reset user password.
 - Provided temporary credentials and confirmed successful login.
 - Skills: Active Directory administration, password management, identity verification, security policy compliance, account troubleshooting.
+
+### Ticket-004: Third Floor Network Outage
+- Investigated internet outage affecting all users on the third floor.
+- Determined outage was isolated to a single network segment.
+- Identified Floor 3 switch in an error state.
+- Communicated planned maintenance to affected users.
+- Rebooted switch and verified service restoration.
+- Skills: Network troubleshooting, switch administration, incident management, network topology analysis, user communication.
